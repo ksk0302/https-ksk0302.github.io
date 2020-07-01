@@ -8,14 +8,27 @@
   <body>
     <header>
       <div class="container">
-        <div class="a">
-        a
-        </div>
+        <h2>磯部光佑について</h2>
+        <p>2020/07/01作成<p/>
       </div>
     </header>
+    
     <main>
-    a
+      <div class="my_basic_info">
+        <h2>ABOUT ME</h2>
+        <ul>
+          <li>名前：磯部光佑</li>
+          <li>出生地：日本</li>
+          <li>生年月日：2001/03/02</li>
+          <li>学歴：東京理科大学</li>
+        </ul>
+      </div>
     </main>
-    <footer>a</footer>
+    
+    <footer>
+    <div class="contact">
+      <h2>CONTACT</h2>
+      <p>〒abc-defg　東京都○○区○○　電話：○○○-○○○○-○○○○　メール：○○○＠○○○</p>
+    </footer>
   </body>
 </html>
